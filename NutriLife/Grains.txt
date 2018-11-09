@@ -1,0 +1,12 @@
+Foods/Grains/cereal.jpg
+Foods/Grains/cornbread.jpg
+Foods/Grains/corn_tortillas.jpg
+Foods/Grains/crackers.jpg
+Foods/Grains/hamburger_buns.jpg
+Foods/Grains/muffin.jpg
+Foods/Grains/oats.jpg
+Foods/Grains/pasta.jpg
+Foods/Grains/pita_bread.jpg
+Foods/Grains/pretzels.jpg
+Foods/Grains/whitebread.jpg
+Foods/Grains/whole_wheat_bread.jpg

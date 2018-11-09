@@ -1,0 +1,90 @@
+Apple%100%52
+Artichoke%100%47
+Avocado%100%160
+Banana%100%89
+Beet%100%43
+Blackberry%100%43
+Blueberry%100%57
+Broccoli%100%34
+Brussel Sprouts%100%43
+Cabbage%100%25
+Cantaloupe%100%34
+Carrot%100%41
+Cauliflower%100%25
+Celery%100%16
+Cherry%100%50
+Chickpeas%100%364
+Coconut%100%365
+Corn%100%365
+Cucumber%100%16
+Date%100%282
+Dragon Fruit%100%60
+Durian%100%147
+Eggplant%100%25
+Garlic%100%149
+Grape%100%60
+Grapefruit%100%42
+Green Beans%100%31
+Kale%100%49
+Kiwi%100%61
+Lemon%100%29
+Lettuce%100%15
+Lime%100%30
+Mango%100%60
+Mushrooms%100%22
+Olives%100%115
+Onion%100%40
+Orange%100%47
+Peach%100%39
+Pear%100%57
+Peas%100%81
+Pineapple%100%50
+Plum%100%46
+Pomegranate%100%83
+Potatoes%100%77
+Pumpkin%100%26
+Raspberry%100%53
+Seaweed%100%43%
+Spinach%100%23
+Squash%100%17
+Strawberry%100%33
+Sweet Pepper%100%40
+Tomato%100%18
+Turnip%100%28
+Watermelon%100%30
+Yam%100%118
+Beans%100%347
+Beef%100%250
+Buffalo%100%226
+Chicken%100%239
+Duck%100%237
+Egg%100%155
+Fish%100%206
+Game Bird Meat%100%120
+Goat%100%143
+Ham%100%145
+Lamb%100%294
+Nuts%100%607
+Pork%100%242
+Rabbit%100%173
+Shellfish%100%99
+Tofu%100%76
+Turkey%100%189
+Butter%100%717
+Cheese%100%402
+Cream%100%49
+Frozen Yogurt%100%159
+Milk%100%42
+Yogurt%100%59
+Cereal%100%378
+Cornbread%100%330
+Corn Tortillas%100%218
+Crackers%100%504
+Hamburger Buns%100%200
+Muffin%100%337
+Oats%100%389
+Pasta%100%131
+Pita bread%100%275
+Pretzels%100%380
+White Bread%100%265
+Whole Wheat Bread%100%247
